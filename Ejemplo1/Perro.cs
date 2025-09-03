@@ -9,6 +9,7 @@ namespace Ejemplo1
     internal class Perro
     {
         //Aca comento esto para probar el github
+        // Se aplico correctamente el cambio
 
         //Perro: nombre, color, origen
 
